@@ -1,0 +1,1 @@
+({baseUrl:".",name:"app.js",dir:"built/",mainConfigFile:"app.js"});
